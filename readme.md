@@ -1,1 +1,1 @@
-A JSFiddle sort of project for me to brush up on JQuery again.
+A JSFiddle similar project to brush up on JQuery again.
